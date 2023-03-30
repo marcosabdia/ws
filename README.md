@@ -10,7 +10,7 @@ Sistema rodando em modo demosntração para clientes em:</br>
 https://demo.chatday.com.br</br>
 
 USUÁRIOS PARA AMBIENTES DE TESTES</br>
-===========================================</br>
+==================================</br>
 Usuário: teste01@chatday.com.br</br>
 Senha: @chatday</br>
 -------------------------------------------</br>
@@ -22,7 +22,7 @@ Senha: @chatday</br>
 -------------------------------------------</br>
 Usuário: teste04@chatday.com.br</br>
 Senha: @chatday</br>
-===========================================</br>
+==================================</br>
 
 CONSULTORIA PARA INSTALAÇÃO E MANUTENÇÃO NO SISTEMA</br>
 WhatsApp (69)99227-4497
