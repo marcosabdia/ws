@@ -6,7 +6,7 @@ https://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:x-oauth-basic@github.com/jerbis
 Sistema rodando em produção em:</br>
 https://app.chatday.com.br
 
-Sistema rodando em modo demosntração para clientes em:</br>
+Sistema rodando em modo demonstração para clientes em:</br>
 https://demo.chatday.com.br</br>
 
 USUÁRIOS PARA AMBIENTES DE TESTES</br>
